@@ -1,1 +1,1 @@
-My first readme updated for learning purposes
+My first readme updated
